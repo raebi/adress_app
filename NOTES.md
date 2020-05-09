@@ -21,3 +21,14 @@ $ source env/bin/activate
 (env) <computername>:~/Development/flaskapp/adress_app (master)$
 
 # create a flask app with cookiecutter template
+ - pip install flask
+ - pip install flask_SQLAlchemy
+ - pip install pandas
+ - pip install Flask-Bootstrap
+
+ # Project init with cookiecutter
+'''python3
+pip3 install cookiecutter
+
+cookiecutter https://github.com/cookiecutter-flask/cookiecutter-flask.git
+'''
