@@ -7,7 +7,17 @@ https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
  https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
  - In Atom it is possible to add a GitHub token --> go down to left corner and click GitHub --> create token
 
-# installl python3 pip3 and pipenv
-https://docs.python-guide.org/dev/virtualenvs/
+# installl python3, pip3 and virtualenv
+https://www.techiediaries.com/ubuntu/install-python-3-pip-venv-ubuntu-20-04-19/
+$ sudo apt install python3-pip
+$ sudo apt install python3-venv
+
+# create a venv
+in den projekt ordner wechseln
+$ python3 -m venv env
+aktivieren der Virtual Environment
+$ source env/bin/activate
+
+(env) <computername>:~/Development/flaskapp/adress_app (master)$
 
 # create a flask app with cookiecutter template
