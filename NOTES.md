@@ -27,8 +27,8 @@ $ source env/bin/activate
  - pip install Flask-Bootstrap
 
  # Project init with cookiecutter
-'''python3
+´´´python3
 pip3 install cookiecutter
 
 cookiecutter https://github.com/cookiecutter-flask/cookiecutter-flask.git
-'''
+´´´
