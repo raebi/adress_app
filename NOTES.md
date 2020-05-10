@@ -11,6 +11,7 @@ https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
 
 # git ssh
  https://kamarada.github.io/en/2019/07/14/using-git-with-ssh-keys/
+ - damit über Atom der push funktioniert, muss die variante mit SSH configuriert sein.
 
 # installl python3, pip3 and virtualenv
 https://www.techiediaries.com/ubuntu/install-python-3-pip-venv-ubuntu-20-04-19/
