@@ -32,3 +32,10 @@ pip3 install cookiecutter
 
 cookiecutter https://github.com/cookiecutter-flask/cookiecutter-flask.git
 ```
+--> wird nicht verwendet, da eine riesen app erstellt wird
+
+Eine alternative für pypy bietet das nachfolgende cookiecutter template
+```python
+cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+
+```
